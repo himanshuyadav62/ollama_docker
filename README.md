@@ -1,6 +1,6 @@
 # ollama_docker
 
-*choose model by editing start.sh*
+*choose model by editing **start.sh***
 
  **docker build -t ollama-gemma:latest .**
 
